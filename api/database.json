@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "user_name": "kdixon2",
+            "first_name": "Ken",
+            "last_name": "Dixon",
+            "email": "ktdixon2@gmail.com"
+        },
+        {
+            "id": 2,
+            "user_name": "troberts",
+            "first_name": "Tammy",
+            "last_name": "Robers",
+            "email": "trobers@gmail.com"
+
+        },
+        {
+            "id": 3, 
+            "user_name": "tsanborn",
+            "first_name": "Ted",
+            "last_name": "Sanborn",
+            "email": "tsanborn@gmail.com"
+        },
+        {
+            "id": 4,
+            "user_name": "hsanborn",
+            "first_name": "Heather",
+            "last_name": "Sanborn",
+            "email": "hsanborn@gmail.com"
+        }
+    ],
+    "holdings": [
+        {
+            "id": 1,
+            "userId": 1,
+            "name": "Bitcoin",
+            "amount": "323"
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "name": "Litecoin",
+            "amount": "1248"
+        },
+        {
+            "id": 3,
+            "userId": 1,
+            "name": "Ethereum",
+            "amount": "87"
+        }
+    ]
+}    

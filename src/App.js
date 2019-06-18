@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={stackApp} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          A simple way to track your crypto portfolio
         </p>
         <a
           className="App-link"
