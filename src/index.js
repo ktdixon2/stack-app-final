@@ -19,10 +19,10 @@ class UserList extends Component {
         return (
             <article>
                 <h1>Registered Users</h1>
-                <section>Jessica Younker</section>
-                <section>Jordan Nelson</section>
-                <section>Zoe LeBlanc</section>
-                <section>Blaise Roberts</section>
+                <section>KTDixon2</section>
+                <section>HSanborn</section>
+                <section>TSanborn</section>
+                <section>TRoberts</section>
             </article>
         );
     }
